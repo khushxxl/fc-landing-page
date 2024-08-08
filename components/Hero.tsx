@@ -21,7 +21,7 @@ function Hero() {
       </div>
 
       {/* right  */}
-      <div className="">
+      <div className="mb-10 lg:mb-0">
         <Image
           height={500}
           alt=""
