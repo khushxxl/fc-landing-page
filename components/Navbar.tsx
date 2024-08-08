@@ -7,9 +7,10 @@ function Navbar() {
     <div className="p-5 top-0 bg-white sticky z-50 flex items-center justify-between w-full  border-b-2">
       <div>
         <Image
-          height={15}
+          height={50}
           alt=""
-          src={require("../app/assets/fcTextLogo1.png")}
+          width={100}
+          src={require("../app/assets/fcTextLogo2.png")}
         />
       </div>
 
