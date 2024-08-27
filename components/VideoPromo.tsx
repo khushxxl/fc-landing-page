@@ -3,7 +3,7 @@ import React from "react";
 function VideoPromo() {
   return (
     <div className="w-full flex flex-col max-w-7xl mx-auto justify-center items-center p-10 min-h-[70vh]">
-      <div className="">
+      {/* <div className="">
         <iframe
           className="h-[200px] w-[400px] lg:h-[400px] lg:w-[800px]"
           src="https://www.youtube.com/embed/FMNqCthCZCc?si=TvbIidtvVWh9JalF"
@@ -12,7 +12,7 @@ function VideoPromo() {
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
         />
-      </div>
+      </div> */}
       <h1 className="mt-10 text-3xl text-center font-bold">
         Join over 200 members achieving their goal physique!
       </h1>

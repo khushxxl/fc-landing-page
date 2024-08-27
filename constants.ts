@@ -91,3 +91,69 @@ export const tailoredPlans = [
       "You won’t be forced to chow down 4x meals per day of unwanted food or limit yourself to chicken and rice. We tailor each nutrition plan around foods that you enjoy.",
   },
 ];
+
+export const privacyPolicy = `
+
+Privacy Policy for Fit Center
+Effective Date: August 27, 2024
+
+Introduction
+
+Welcome to Fit Center. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our fitness app, Fit Center.
+
+1. Information We Collect
+
+We may collect the following types of information when you use Fit Center:
+
+Personal Information: This includes your name, email address, phone number, and other information you provide when registering or using our services.
+Fitness Data: Information related to your health and fitness, such as workout routines, goals, and progress.
+Device Information: Data about the device you use to access Fit Center, including your IP address, device type, and operating system.
+Usage Data: Information on how you interact with the app, such as features used, time spent, and content viewed.
+2. How We Use Your Information
+
+We use the information collected to:
+
+Provide and improve our services.
+Customize your experience within the app.
+Communicate with you, including sending updates, promotions, and notifications.
+Monitor and analyze usage and trends to improve the app.
+Ensure the security and integrity of our services.
+3. Sharing Your Information
+
+We do not sell your personal information to third parties. We may share your information with:
+
+Service Providers: Third-party companies that help us provide and improve our services, such as hosting, analytics, and customer support.
+Legal Requirements: If required by law, we may disclose your information to comply with legal obligations or respond to lawful requests.
+4. Data Security
+
+We take data security seriously and implement reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no security system is impenetrable, and we cannot guarantee the complete security of your data.
+
+5. Your Choices
+
+You have the following choices regarding your information:
+
+Access and Update: You can access and update your personal information within the app.
+Opt-Out: You can opt-out of receiving promotional communications by following the unsubscribe instructions in the communication or by contacting us directly.
+Delete Account: You can request to delete your account and all associated data by contacting our support team.
+6. Children’s Privacy
+
+Fit Center is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us to delete it.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any significant changes by posting the new Privacy Policy on our app and updating the effective date.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+Fit Center Support
+Fit Center
+Email: Info
+
+9. Governing Law
+
+This Privacy Policy shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law principles.
+
+
+`;

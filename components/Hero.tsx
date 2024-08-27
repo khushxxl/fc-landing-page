@@ -11,12 +11,10 @@ function Hero() {
     >
       <div className="space-y-5 mt-10  lg:mt-0   flex flex-col justify-center items-center md:items-start text-center lg:text-left">
         <h1 className="text-2xl  lg:text-4xl  font-bold bg-clip-text  ">
-          WHERE STRENGTH MEETS LONGEVITY
+          The Fit Center - Where Strength Meets Longevity
         </h1>
         <h1 className="max-w-xs lg:max-w-lg text-md  font-semibold">
-          Et et sea est et eirmod, duo vero et et tempor labore tempor, et
-          voluptua rebum magna invidunt sit accusam, ipsum labore et et amet no
-          et, lorem sed elitr.
+          The Modern Solution To Achieve The Body You Have Always Wanted
         </h1>
       </div>
 
@@ -25,8 +23,8 @@ function Hero() {
         <Image
           height={500}
           alt=""
-          className="rounded-3xl border-black border-2"
-          src={require("../app/assets/demo1.png")}
+          className="rounded-3xl border-black"
+          src={require("../app/assets/fc_mockup.png")}
         />
       </div>
     </div>

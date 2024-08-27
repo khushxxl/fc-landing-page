@@ -1,4 +1,5 @@
 import Features from "@/components/Features";
+import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import MainKey from "@/components/MainKey";
 import Testimonail from "@/components/Testimonail";
@@ -13,6 +14,7 @@ export default function Home() {
       <Features />
       <Testimonail />
       <MainKey />
+      <Footer />
     </main>
   );
 }

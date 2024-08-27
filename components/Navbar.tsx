@@ -13,16 +13,16 @@ function Navbar() {
           src={require("../app/assets/fcTextLogo2.png")}
         />
       </div>
-
+      {/* 
       <div className="hidden lg:flex">
         <ul className="flex space-x-10">
           <li>Coaching</li>
           <li>Nutrition</li>
           <li>Personal</li>
         </ul>
-      </div>
+      </div> */}
 
-      <div className="hidden lg:flex">
+      <div className="">
         <div className="flex items-center border-2 p-2 rounded-xl cursor-pointer ">
           <Image
             alt=""
@@ -35,10 +35,10 @@ function Navbar() {
           Download Now
         </div>
       </div>
-
+      {/* 
       <div className="lg:hidden">
         <MenuIcon />
-      </div>
+      </div> */}
     </div>
   );
 }

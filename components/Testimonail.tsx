@@ -5,7 +5,9 @@ import React from "react";
 function Testimonail() {
   return (
     <div className="w-full flex flex-col  mx-auto  p-5  items-center ">
-      <h1 className="text-4xl font-bold mt-10">Public Cheers for us</h1>
+      <h1 className="text-4xl font-bold mt-10 text-center">
+        Public Cheers for us
+      </h1>
       <div className="grid grid-cols-1 lg:grid-cols-3 place-items-center  place-content-center gap-x-4 gap-y-4 mt-20">
         {testimonials.map((data, i) => {
           return (
