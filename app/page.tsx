@@ -3,7 +3,6 @@ import Pricing from "@/components/Pricing";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import MainKey from "@/components/MainKey";
-import Testimonail from "@/components/Testimonail";
 import VideoPromo from "@/components/VideoPromo";
 import Image from "next/image";
 
@@ -14,7 +13,6 @@ export default function Home() {
       <VideoPromo />
       <Features />
       <Pricing />
-      <Testimonail />
       <MainKey />
       <Footer />
     </main>

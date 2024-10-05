@@ -3,8 +3,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="h-[50vh] bg-black flex items-center justify-center flex-col space-y-10">
-      <h1 className="text-white text-3xl font-bold">
+    <div className="h-[50vh] bg-black flex items-center justify-center flex-col space-y-10 px-4 text-center">
+      <h1 className="text-white text-3xl md:text-4xl font-bold">
         Join Fit Center Now for exclusive offers
       </h1>
 
