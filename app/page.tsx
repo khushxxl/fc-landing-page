@@ -1,4 +1,5 @@
 import Features from "@/components/Features";
+import Pricing from "@/components/Pricing";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import MainKey from "@/components/MainKey";
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero />
       <VideoPromo />
       <Features />
+      <Pricing />
       <Testimonail />
       <MainKey />
       <Footer />
